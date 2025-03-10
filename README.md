@@ -9,7 +9,7 @@
 <img alt="Issues" src="https://img.shields.io/github/issues/valentinfrlch/llmvision-card?color=0088ff"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/support-buymeacoffee?logo=buymeacoffee&logoColor=black&color=%23FFDD00&link=https%3A%2F%2Fbuymeacoffee.com%2Fvalentinfrlch">
     <p align=center style="font-weight:bold">
-      Custom Card to display the LLM Vision Timeline on your Home Assistant Dashboard
+      Custom Card to display the LLM Vision Timeline in German on your Home Assistant Dashboard
     </p>
 </p>
 
