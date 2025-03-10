@@ -1,6 +1,6 @@
 import { getIcon } from './helpers.js';
 
-class LLMVisionCard extends HTMLElement {
+class LLMVisionCardDE extends HTMLElement {
 
     config;
     content;
@@ -344,7 +344,7 @@ class LLMVisionCard extends HTMLElement {
     }
 }
 
-customElements.define('llmvision-card', LLMVisionCard);
+customElements.define('llmvision-card-de', LLMVisionCardDE);
 window.customCards = window.customCards || [];
 window.customCards.push({
     type: "llmvision-card",
