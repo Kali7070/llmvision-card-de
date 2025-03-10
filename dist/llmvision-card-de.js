@@ -348,6 +348,6 @@ customElements.define('llmvision-card', LLMVisionCard);
 window.customCards = window.customCards || [];
 window.customCards.push({
     type: "llmvision-card",
-    name: "LLM Vision Timeline Card",
-    description: "Display the LLM Vision Timeline on your dashboard",
+    name: "LLM Vision Timeline Card German",
+    description: "Display the LLM Vision Timeline on your dashboard in German",
 });
