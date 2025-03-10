@@ -1,5 +1,5 @@
 {
     "name": "LLM Vision Card DE",
-    "render_readme": true,
+    "render_readme": false,
     "filename": "llmvision-card.js"
 }
