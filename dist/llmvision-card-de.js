@@ -347,7 +347,7 @@ class LLMVisionCardDE extends HTMLElement {
 customElements.define('llmvision-card-de', LLMVisionCardDE);
 window.customCards = window.customCards || [];
 window.customCards.push({
-    type: "llmvision-card",
+    type: "llmvision-card-de",
     name: "LLM Vision Timeline Card German",
     description: "Display the LLM Vision Timeline on your dashboard in German",
 });
